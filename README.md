@@ -1,6 +1,6 @@
-# Flask API [Boilerplate Code](https://appseed.us/boilerplate-code)
+# Flask [Boilerplate Code](https://appseed.us/boilerplate-code)
 
-Playground **boilerplate code** used by the **[AppSeed](https://appseed.us)** community for simple **Flask API Servers**.
+Playground **boilerplate code** used by the **[AppSeed](https://appseed.us)** community for simple Flask API Servers.
 
 <br />
 
@@ -41,4 +41,4 @@ Fork the project, create a new branch and code the new module / feature
 <br />
 
 ---
-Flask API [Boilerplate Code](https://appseed.us/boilerplate-code) - Provided by **AppSeed - [Web App Generator](https://appseed.us/app-generator)**. 
+Flask API [Boilerplate Code](https://appseed.us/boilerplate-code) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
